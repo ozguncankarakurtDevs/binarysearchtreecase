@@ -4,7 +4,7 @@ root 7 alınır ve küçük sayılar sol düğüme büyük sayılar ise sağ dü
 
 [5]
 
-   7
+  7
  /
 5
 
@@ -15,6 +15,7 @@ root 7 alınır ve küçük sayılar sol düğüme büyük sayılar ise sağ dü
   5
  /
 1
+
 [8]
 
     7
