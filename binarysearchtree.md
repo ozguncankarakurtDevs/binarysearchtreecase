@@ -1,6 +1,6 @@
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aÅŸamalarÄ±nÄ± yazÄ±nÄ±z.
 
-root 7 alınır ve küçük sayılar sol düğüme büyük sayılar ise sağ düğüme yazılır.
+root 7 alÄ±nÄ±r ve kÃ¼Ã§Ã¼k sayÄ±lar sol dÃ¼ÄŸÃ¼me bÃ¼yÃ¼k sayÄ±lar ise saÄŸ dÃ¼ÄŸÃ¼me yazÄ±lÄ±r.
 
 1)    
        7
@@ -16,9 +16,13 @@ root 7 alınır ve küçük sayılar sol düğüme büyük sayılar ise sağ düğüme yazılır.
 
 3)
     7
+    
    / \
+   
   5   8
+  
  /
+ 
 1
 
 4)
